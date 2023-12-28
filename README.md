@@ -1,6 +1,7 @@
 # U-Net Implementation for Hindi Speech Denoising ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
-![image](https://github.com/1rsh/unet-speech-denoising/assets/93649948/4fefc01a-f3c9-405b-b521-7dca3b67676b)
+![unet](https://github.com/1rsh/unet-speech-denoising/assets/93649948/25f99e4f-3af8-4ff1-80e2-131bc795dddb)
+
 
 This repository contains an implementation of U-Net (originally intended for Image Segmentation) which was introduced in the paper [U-Net: Convolutional Networks for Biomedical
 Image Segmentation](https://arxiv.org/pdf/1505.04597v1.pdf) using PyTorch.  
